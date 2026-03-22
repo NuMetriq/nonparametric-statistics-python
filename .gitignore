@@ -5,9 +5,16 @@ __pycache__/
 .pytest_cache/
 .vscode/
 .idea/
+
 data/raw/*
 !data/raw/.gitkeep
+
 data/processed/*
 !data/processed/.gitkeep
+
 reports/figures/*
 !reports/figures/.gitkeep
+!reports/figures/*.png
+!reports/figures/*.jpg
+!reports/figures/*.jpeg
+!reports/figures/*.svg
