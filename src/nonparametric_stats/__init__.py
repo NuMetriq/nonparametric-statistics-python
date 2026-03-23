@@ -22,3 +22,15 @@ from .regression import (
     mean_squared_error_manual,
     validate_1d_regression_inputs,
 )
+from .simulation import (
+    cauchy_generator,
+    contaminated_normal_generator,
+    laplace_generator,
+    lognormal_generator,
+    mann_whitney_pvalue,
+    normal_generator,
+    permutation_mean_pvalue,
+    permutation_median_pvalue,
+    simulate_rejection_rate,
+    welch_ttest_pvalue,
+)
