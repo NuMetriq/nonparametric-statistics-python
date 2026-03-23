@@ -27,16 +27,14 @@ This repo will cover:
 
 ## Current Progress
 
-Completed so far:
+Completed modules:
+- Module 1: ECDF and rank-based foundations
+- Module 2: Permutation tests
+- Module 3: Bootstrap methods
+- Module 4: Density estimation and KDE
 
-- project skeleton and `src/` layout
-- editable package setup with `pyproject.toml`
-- ECDF implementation
-- exact two-sided sign test
-- pairwise-comparison implementation for the Mann–Whitney framework
-- basic pytest coverage for Module 1
-- first notebook scaffold:
-  - `notebooks/01_ecdf_and_rank_tests.ipynb`
+Next up:
+- Module 5: Nonparametric regression
 
 ## Repository Structure
 
