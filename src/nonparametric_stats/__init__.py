@@ -14,3 +14,11 @@ from .kde import (
 )
 from .permutation import difference_in_means, difference_in_medians, permutation_test
 from .rank_tests import mann_whitney_pairwise_less, sign_test
+from .regression import (
+    fit_kernel_regression,
+    fit_knn_regression,
+    fit_linear_regression_polyfit,
+    fit_lowess,
+    mean_squared_error_manual,
+    validate_1d_regression_inputs,
+)
